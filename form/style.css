@@ -1,0 +1,24 @@
+/* form {
+    max-width: 950px;
+    margin: 0 auto;
+}
+legend, label {
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+button {
+    height: 50px;
+    font-size: 20px;
+    background: #0093ff;
+    border-radius: 10px;
+    padding: 10px 15px;
+    line-height: 25px;
+    border: none;
+}
+table {
+    margin: 0 auto;
+} */
+input {
+    width: 30%;
+}

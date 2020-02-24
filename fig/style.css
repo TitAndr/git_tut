@@ -1,0 +1,42 @@
+.block {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.figure {
+    margin-bottom: 30px;
+}
+.oval {
+    width: 150px; height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.trial-up {
+    width: 0; height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid blue;
+}
+.trial-down {
+    width: 0; height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid blue;
+}
+.trial-left {
+    width: 0; height: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-right: 100px solid blue;
+}
+.trapez {
+    width: 200px;
+    border-bottom: 100px solid blue;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+}
+.paral {
+    width: 300px; height: 100px;
+    background-color: blue;
+    transform: skew(-40deg);
+}
